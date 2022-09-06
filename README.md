@@ -5,3 +5,4 @@ E4 Elective Machine Learning &amp; Deep Learning
 - Online Book with Codes: https://d2l.ai/index.html
 - Tutorials:
   - Derivative chain and product rule: https://www.youtube.com/watch?v=YG15m2VwSjA&ab_channel=3Blue1Brown
+  -  Backpropagation: https://colah.github.io/posts/2015-08-Backprop/
